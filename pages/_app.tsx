@@ -1,4 +1,3 @@
-import '../styles/globals.css'
 import '../styles/pico.min.css'
 import type { AppProps } from 'next/app'
 
