@@ -6,12 +6,12 @@ export default function Nav() {
   return (
     <nav className="container-fluid">
     <ul>
-      <li><a href="./" className="contrast"><strong>Kumi</strong></a></li>
+      <li><a href="/" className="contrast"><strong>Kumi discord sever</strong></a></li>
     </ul>
     <ul>
-      <li><a href="#" className="contrast" data-theme-switcher="auto">Auto</a></li>
-      <li><a href="#" className="contrast" data-theme-switcher="light">Light</a></li>
-      <li><a href="#" className="contrast" data-theme-switcher="dark">Dark</a></li>
+      <li><a href="#" className="contrast" >Home</a></li>
+      <li><a href="#" className="contrast" >Server info</a></li>
+      <li><a href="#" className="contrast" >Contact us</a></li>
     </ul>
   </nav>
   );
