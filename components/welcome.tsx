@@ -4,6 +4,9 @@ import Image from 'next/image'
 export default function Welcome() {
     return (
         <div className="container">
+            <div className="center-text">
+                <h1>Kumi server</h1>
+            </div>
         <article className="grid">
           <div>
             <hgroup>
