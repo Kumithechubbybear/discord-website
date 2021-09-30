@@ -16,10 +16,22 @@ export default function Welcome() {
             <section id="preview">
         <h2>Our server</h2>
         <p>We have a lot of thing you that make you want to join! <Link href="https://discord.gg/etYUej9Gzw"><a target="_blank">CLick here to join</a></Link></p>
-        <form>
-
-          <button type="submit">Subscribe</button>
-        </form>
+        <article class="grid">
+        <div>
+          <hgroup>
+            <h1>Sign in</h1>
+            <h2>A minimalist layout for Login pages</h2>
+          </hgroup>
+          <form>
+            <fieldset>
+              <label for="remember">
+                Remember me
+              </label>
+            </fieldset>
+          </form>
+        </div>
+        <div></div>
+      </article>
       </section>
       </div>
     );
