@@ -5,6 +5,7 @@ import Image from 'next/image'
 
 import Nav from '../components/nav'
 import Welcome from '../components/welcome'
+import Footer from '../components/footer'
 
 const Home: NextPage = () => {
   return (
@@ -21,6 +22,8 @@ const Home: NextPage = () => {
       <Nav />
 
       <Welcome />
+
+      <Footer />
       
     </div>
   )

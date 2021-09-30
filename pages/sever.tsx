@@ -1,12 +1,17 @@
 import Head from 'next/head';
+import Link from "next/link";
+
 
 import Nav from '../components/nav'
 import Info from '../components/info'
+import Rules from '../components/rules'
+import Question from '../components/faq'
+import Footer from '../components/footer'
 
 
 export default function Home() {
     return (
-      <div >
+      <div className="container">
         <Head>
           <title>Kumi discord server | info</title>
             <meta name="description" content="Kumi discord server website" />
@@ -19,6 +24,20 @@ export default function Home() {
         <Nav />
 
         <Info />
+
+        <hr />
+
+        <Rules />
+
+        <br /><br /><hr /><br />
+
+        <h2>FAQ</h2>
+        <Question
+            question="How do I get unban"
+            answer="You can get unban by fill in ban appeal. Go to banappeal page to get form link" />
+
+
+        <Footer />
       </div>
     );
   }
