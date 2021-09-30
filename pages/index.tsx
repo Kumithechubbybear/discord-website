@@ -9,7 +9,7 @@ import Footer from '../components/footer'
 
 const Home: NextPage = () => {
   return (
-    <div>
+    <div className="container">
       <Head>
         <title>Kumi discord sever | Home</title>
         <meta name="description" content="Kumi discord server website" />

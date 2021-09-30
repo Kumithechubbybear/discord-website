@@ -20,7 +20,7 @@ export default function Welcome() {
                     <div>
                         <hgroup>
                             <h1>Powerful bot</h1>
-                            <h2>Kumi's Utilities bot for kumi discord server have a lot of power and useful feature. You can ask any thing about server or kumi by using <kbd>></kbd> prefix. To start use <kbd>>help</kbd></h2>
+                            <h2>Kumi's Utilities bot for kumi discord server have a lot of power and useful feature. You can ask any thing about server or kumi by using <kbd>{'>'}</kbd> prefix. To start use <kbd>{'>'}help</kbd></h2>
                         </hgroup>
                     </div>
                     <div>
