@@ -12,9 +12,7 @@ export default function Welcome() {
             </hgroup>
             <form>
               <fieldset>
-                <label for="remember">
                   Remember me
-                </label>
               </fieldset>
               <button type="submit" className="contrast">Login</button>
             </form>
