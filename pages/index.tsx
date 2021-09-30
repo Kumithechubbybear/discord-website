@@ -4,6 +4,7 @@ import Image from 'next/image'
 
 
 import Nav from '../components/nav'
+import Welcome from '../components/welcome'
 
 const Home: NextPage = () => {
   return (
@@ -15,6 +16,8 @@ const Home: NextPage = () => {
       </Head>
 
       <Nav />
+
+      <Welcome />
       
     </div>
   )
