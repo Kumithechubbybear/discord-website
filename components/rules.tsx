@@ -15,9 +15,9 @@ export default function Rules() {
                 <li>You may not sexualize minors in any way. This includes sharing content or links which depict minors in a pornographic, sexually suggestive, or violent manner, and includes illustrated or digitally altered pornography that depicts minors (such as lolicon, shotacon, or cub). We report illegal content to the <Link href="https://www.missingkids.org/gethelpnow/cybertipline"><a target="_blank">National Center for Missing and Exploited Children</a></Link>.</li>
             </ul>
         <hr />
-        
+
             <h2>Why I need follow the rules?</h2>
-            <p>Because if you don't follow server rules you will</p>
+            <p>Because if you don&apos;t follow server rules you will</p>
             <b>First time</b>
             <li>Warn and delete that message or others</li>
             <b>Second time</b>

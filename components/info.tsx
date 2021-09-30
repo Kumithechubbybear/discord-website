@@ -9,7 +9,7 @@ export default function Info() {
                 <br />
                 <h1>Kumi discord server informantion</h1>
                 <h3>Join <Link href="https://discord.gg/etYUej9Gzw"><a target="_blank">Kumi discord server</a></Link></h3>
-                <Image src="/kumi-bear.png" width={250} height={250} />
+                <Image src="/kumi-bear.png" alt="kumi bear" width={250} height={250} />
                 <br /><br /><br />
             </div>
       </div>

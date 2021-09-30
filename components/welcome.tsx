@@ -9,7 +9,7 @@ export default function Welcome() {
                 <br />
                 <h1>Kumi discord server 🐻</h1>
                 <h3>Join <Link href="https://discord.gg/etYUej9Gzw"><a target="_blank">Kumi discord server</a></Link></h3>
-                <Image src="/kumi-bear.png" width={250} height={250} />
+                <Image src="/kumi-bear.png" alt="bear" width={250} height={250} />
 
             </div>
             <br />
@@ -20,11 +20,11 @@ export default function Welcome() {
                     <div>
                         <hgroup>
                             <h1>Powerful bot</h1>
-                            <h2>Kumi's Utilities bot for kumi discord server have a lot of power and useful feature. You can ask any thing about server or kumi by using <kbd>{'>'}</kbd> prefix. To start use <kbd>{'>'}help</kbd></h2>
+                            <h2>Kumi&apos;s Utilities bot for kumi discord server have a lot of power and useful feature. You can ask any thing about server or kumi by using <kbd>{'>'}</kbd> prefix. To start use <kbd>{'>'}help</kbd></h2>
                         </hgroup>
                     </div>
                     <div>
-                        <Image src="/kumiprofile.jpg" width={300} height={300} />
+                        <Image src="/kumiprofile.jpg" alt="kumi" width={300} height={300} />
                     </div>
                 </article>
             </section>
