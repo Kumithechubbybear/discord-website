@@ -10,7 +10,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Kumi discord sever</title>
+        <title>Kumi discord sever | Home</title>
         <meta name="description" content="Kumi discord server website" />
         <link rel="icon" href="/favicon.ico" />
         <meta charSet="UTF-8" />
