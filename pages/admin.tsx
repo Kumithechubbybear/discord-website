@@ -4,15 +4,15 @@ import Head from 'next/head'
 
 
 import Nav from '../components/nav'
-import Welcome from '../components/Hiban'
-import Ban from '../components/ban'
+//import Welcome from '../components/Hiban'
+import Admin from '../components/admin'
 import Footer from '../components/footer'
 
 const Home: NextPage = () => {
   return (
     <div className="container">
       <Head>
-        <title>Kumi discord sever | Ban appeal</title>
+        <title>Kumi discord sever | admin</title>
         <meta name="description" content="Kumi discord server website" />
         <link rel="icon" href="/favicon.ico" />
         <meta charSet="UTF-8" />
@@ -22,11 +22,7 @@ const Home: NextPage = () => {
 
       <Nav />
 
-      <Welcome />
-
-        <br /><hr /><br />
-
-      <Ban />
+    <Admin />
 
       <br />
 
