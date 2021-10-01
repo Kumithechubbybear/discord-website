@@ -9,7 +9,7 @@ export default function Nav() {
     </ul>
     <ul>
       <li className="contrast"><Link href='/'><a>Home</a></Link></li>
-      <li className="contrast"><Link href='/sever'><a>Server info</a></Link></li>
+      <li className="contrast"><Link href='/server'><a>Server info</a></Link></li>
       <li className="contrast"><Link href='/contact'><a>Contact us</a></Link></li>
     </ul>
   </nav>

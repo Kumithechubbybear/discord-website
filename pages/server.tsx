@@ -5,8 +5,9 @@ import Link from "next/link";
 import Nav from '../components/nav'
 import Info from '../components/info'
 import Rules from '../components/rules'
-import Question from '../components/faq'
+import Fqa from '../components/question'
 import Footer from '../components/footer'
+
 
 
 export default function Home() {
@@ -31,11 +32,7 @@ export default function Home() {
 
         <br /><br /><hr /><br />
 
-        <h2>FAQ</h2>
-        <Question
-            question="How do I get unban"
-            answer="You can get unban by fill in ban appeal. Go to banappeal page to get form link" />
-
+        <Fqa />
 
         <Footer />
       </div>
