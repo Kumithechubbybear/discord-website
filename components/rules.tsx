@@ -25,7 +25,7 @@ export default function Rules() {
             <b>Third time</b>
             <li>Warn mute for 1 hour and delete that message or others</li>
             <b>fourth time</b>
-            <li>Ban and delete that message or others. <br />NOTE : <Link href="/">Ban appeal</Link> is here!</li>
+            <li>Ban and delete that message or others. <br />NOTE : <Link href="/ban">Ban appeal</Link> is here!</li>
 
 
       </div>

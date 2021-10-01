@@ -11,7 +11,7 @@ export default function Fqa() {
             question="How do I get unban"
             answer="" />
             <p className="">
-            You can get unban by fill in ban appeal. Go to <Link href='#'><a>banappeal page</a></Link> to get form link
+            You can get unban by fill in ban appeal. Go to <Link href='/ban'><a>banappeal page</a></Link> to get form link
             </p>
 
         <Question
